@@ -41,7 +41,7 @@ ul {
 footer {font-size: 80%;
     text-align: center;
     padding: 10px;
-    background-color: #99cccc;
+    background-color: #A7D1B5;
     color: #666666;
     clear: both;
 }
@@ -64,7 +64,7 @@ nav ul {list-style-type: none;
 nav a{text-decoration: none;
     padding: 25px;
     display: block;
-    background-color: #99cccc;
+    background-color: #A7D1B5;
     border-bottom: 1px solid #ffffff;
 }
 nav a:link{color: #ffffff;}
